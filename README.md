@@ -1,2 +1,2 @@
-# timeseries
+# TimeSeries
 Probability and Statistics
